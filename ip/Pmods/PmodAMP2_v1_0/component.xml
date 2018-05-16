@@ -2832,7 +2832,8 @@
     <xilinx:coreExtensions>
       <xilinx:supportedFamilies>
           <xilinx:family xilinx:lifeCycle="Production">virtex7</xilinx:family>
-          <xilinx:family xilinx:lifeCycle="Production">aspartan7</xilinx:family>
+          <xilinx:family xilinx:lifeCycle="Production">spartan7</xilinx:family>
+    <xilinx:family xilinx:lifeCycle="Production">aspartan7</xilinx:family>
           <xilinx:family xilinx:lifeCycle="Production">kintex7</xilinx:family>
           <xilinx:family xilinx:lifeCycle="Production">qkintex7</xilinx:family>
           <xilinx:family xilinx:lifeCycle="Production">artix7</xilinx:family>
@@ -2847,7 +2848,6 @@
           <xilinx:family xilinx:lifeCycle="Production">qartix7</xilinx:family>
           <xilinx:family xilinx:lifeCycle="Production">azynq</xilinx:family>
           <xilinx:family xilinx:lifeCycle="Production">kintexu</xilinx:family>
-          <xilinx:family xilinx:lifeCycle="Production">spartan7</xilinx:family>
           <xilinx:family xilinx:lifeCycle="Production">virtexuplus</xilinx:family>
           <xilinx:family xilinx:lifeCycle="Production">kintexuplus</xilinx:family>
           <xilinx:family xilinx:lifeCycle="Production">zynquplus</xilinx:family>
