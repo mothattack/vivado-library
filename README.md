@@ -14,3 +14,10 @@ Installation
 Wiki
 -------
 Check out the Digilent Wiki too [here](https://reference.digilentinc.com/vivado:library "Wiki").
+
+
+Additions
+---------
+I have updated component lists to include the Arty S7-50 FPGU
+
+Note: I have not tested all pmods to make sure they work as I do now have access to most of them.
